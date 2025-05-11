@@ -14,7 +14,7 @@ public class AdminController {
 		while (true) {
 			System.out.println("================Welcome to CMS===============");
 			System.out.println("===============================================");
-			System.out.println("1.Add Course");
+			System.out.println("1.Add Course-");
 			System.out.println("2.Display Course");
 			System.out.println("3.Add faculty");
 			System.out.println("4.Display Faculty");
